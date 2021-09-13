@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@100&display=swap');
+body{
+    background-color: black;
+}
+div{
+    float:left;
+    margin-left:1%;
+    height:106px;
+    width: 7%;
+    
+   
+    
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Azeret Mono', monospace;
+   
+}
+.one{
+    border: turquoise;
+    margin-left: 30%;
+}
+.one{
+    /* height: 106px; */
+    border-width: 1px;
+    border-style: solid;
+    /* border-color:dimgray; */
+    /* width: 7%; */
+    background-color:dimgray;
+
+    
+
+}
+.two{
+    /* height: 106px; */
+    border-width: 1px;
+    border-style: solid;
+    /* border-color:darkgreen; */
+    /* width: 7%; */
+    background-color:darkgreen;
+}
+.three{
+    /* height: 106px; */
+    border-width: 1px; 
+    border-style: solid;
+    /* border-color:darkgreen; */
+    /* width: 7%; */
+    background-color:darkgreen;
+}
+.four{
+    /* height: 106px; */
+    border-width: 1px;
+    border-style: solid;
+    /* border-color:green; */
+    /* width: 7%; */
+    background-color:green;
+}
+.five{
+    /* height: 106px; */
+    border-width: 1px;
+    border-style: solid;
+    /* border-color:lightgrey; */
+    /* width: 7%; */
+    background-color:lightgrey;
+} 

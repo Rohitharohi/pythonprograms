@@ -1,0 +1,16 @@
+div{
+    height: 98px;
+    background-color: lightslategray;
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+    width: 50%;
+    margin-left: 175px;
+    /* padding: 50px; */
+
+
+}
+.foot{
+    margin-top: 422px;
+    padding: 20px;
+}
