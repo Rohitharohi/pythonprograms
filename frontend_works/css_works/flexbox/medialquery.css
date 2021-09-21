@@ -1,0 +1,21 @@
+.row{
+    width: 70%;
+    height: 300px;
+    background-color: cornflowerblue;
+}
+.col{
+    width: 30%;
+    height: 200px;
+    background-color: cornsilk;
+
+}
+@media(max-width:550px){
+    .col{
+        background-color: crimson;
+    }
+    .col h3{
+        color: white;
+        font-weight: bolder;
+        font-size: 10px;
+    }
+}
